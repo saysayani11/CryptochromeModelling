@@ -13,3 +13,6 @@ REQUIREMENTS
 1. Existing mouse cryptochrome model (5T5X: High resolution structure of mouse Cryptochrome 1)
 2. Python scripts
 3. A visualization tool (Eg: Chimera)
+4. Python and MODELLER program installed in your system.
+
+
