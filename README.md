@@ -15,6 +15,11 @@ REQUIREMENTS
 3. A visualization tool (Eg: Chimera)
 4. Python and MODELLER program installed in your system.
 
+SCRIPTS
+
+To tell MODELLER what to do, we require three python scripts that can be found here: https://github.com/saysayani11/model_hcry1_using_python
+Download and put them in a directory containing the rest of the files required for modelling. 
+
 HOW DE WE MODEL?
 
 Go over to https://github.com/saysayani11/model_hcry1_using_python/blob/main/Homology%20Modelling%20of%20%20hcry1.pdf 
